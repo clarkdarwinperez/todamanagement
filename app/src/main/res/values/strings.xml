@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TODA</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_Profile">Profile</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="phonenumber">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="full_name">Full Name</string>
+</resources>

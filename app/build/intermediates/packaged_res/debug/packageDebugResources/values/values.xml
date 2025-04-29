@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue_200">#6699cd  </color>
+    <color name="blue_700">#58748D</color>
+    <color name="gray_200">#b4b4b4</color>
+    <color name="gray_500">#636363</color>
+    <color name="gray_700">#494949</color>
+    <color name="red">#D32F2F</color>
+    <color name="redish">#FF7074</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="address">Address</string>
+    <string name="app_name">TODA</string>
+    <string name="email">Email</string>
+    <string name="first_name">First Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="title_Profile">Profile</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="username">Username</string>
+    <style name="Theme.TODA" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/gray_500</item>
+        <item name="colorPrimaryVariant">@color/gray_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/blue_200</item>
+        <item name="colorSecondaryVariant">@color/blue_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

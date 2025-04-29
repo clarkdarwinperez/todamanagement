@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.toda.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.example.toda.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.toda.app-mergeDebugResources-48:/layout/fragment_notifications.xml",
+        "source": "com.example.toda.app-main-51:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "com.example.toda.app-mergeDebugResources-48:/layout/fragment_home.xml",
+        "source": "com.example.toda.app-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.toda.app-mergeDebugResources-48:/layout/fragment_profile.xml",
+        "source": "com.example.toda.app-main-51:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.toda.app-mergeDebugResources-48:/layout/activity_register.xml",
+        "source": "com.example.toda.app-main-51:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.toda.app-mergeDebugResources-48:/layout/activity_login.xml",
+        "source": "com.example.toda.app-main-51:/layout/activity_login.xml"
+    }
+]
